@@ -1,14 +1,14 @@
 # 🍽️ Zomato Sales Performance Analysis  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png" alt="Zomato Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png" width="200"/>
 </p>
 
 ---
 
 ## 📌 Project Overview  
 This project delivers an end-to-end analysis of Zomato sales data, transforming raw datasets into meaningful business insights.  
-It focuses on **customer behavior, city-level performance, and product trends**, visualized through an interactive **Power BI dashboard**.
+It focuses on **customer behavior, city-level performance, and product trends**, visualized through an interactive Power BI dashboard.
 
 ---
 
@@ -33,12 +33,6 @@ https://drive.google.com/file/d/1EWUhjM-ooFQW2ojn3brvrYX83BGX-O6Y/view?usp=drive
 ---
 
 ## 📊 Dashboard Highlights  
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" width="80"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" width="80"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2921/2921822.png" width="80"/>
-</p>
 
 ### 🔹 Overview  
 - 💰 Revenue: **~987M**  
@@ -135,6 +129,11 @@ Explore dashboard filters
 🤖 Machine learning predictions
 ☁️ Power BI Service deployment
 📱 Mobile-friendly dashboard
+👨‍💻 Author
+
+Kunal Ray
+MCA Final Year Student
+Makhanlal Chaturvedi University, Bhopal
 
 🤝 Contribution
 
@@ -144,4 +143,4 @@ Pull requests are welcome. For major changes, open an issue first.
 
 If you like this project, give it a star ⭐
 
-<p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="80"/> </p> ```
+<p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="80"/> </p> ``
