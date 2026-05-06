@@ -36,11 +36,25 @@ It focuses on:
 https://drive.google.com/file/d/1EWUhjM-ooFQW2ojn3brvrYX83BGX-O6Y/view?usp=drivesdk
 
 📄 Static Preview:
-["Zomato Dashboard.pdf"] (https://github.com/Kunalray0707/Zomato-Sales-Performance/blob/main/Zomato%20Dashboard.pdf)
+"Zomato Dashboard.pdf" (https://github.com/Kunalray0707/Zomato-Sales-Performance/blob/main/Zomato%20Dashboard.pdf)
 
 ⚠️ PBIX files cannot be previewed in browser. Download and open using Power BI Desktop.
 
 ---
+
+🌐 Live Dashboard (Optional Upgrade)
+
+(Add Power BI Service link here if you publish online)
+
+---
+
+📸 Dashboard Preview
+
+<p align="center">
+  <img src="images/overview.png" width="300"/>
+  <img src="images/user_performance.png" width="300"/>
+  <img src="images/city_performance.png" width="300"/>
+</p>---
 
 📊 Dashboard Highlights
 
@@ -171,6 +185,7 @@ git clone https://github.com/Kunalray0707/Zomato-Sales-Performance.git
 👨‍💻 Author
 
 Kunal Ray
+MCA Final Year Student
 
 ---
 
