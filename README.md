@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&color=yellow"/>
-  <img src="https://img.shields.io/github/forks/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&color=orange"/>
+  <img src="https://img.shields.io/github/stars/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&cacheSeconds=60"/>
+  <img src="https://img.shields.io/github/forks/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&cacheSeconds=60"/>
   <img src="https://img.shields.io/github/repo-size/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
   🕒 Last Updated: <!--LAST_UPDATED-->
