@@ -1,125 +1,165 @@
-🍽️ Zomato Sales Performance Analysis
+# 🍽️ Zomato Sales Performance Analysis  
 
-📌 Project Overview
-
-This project analyzes Zomato sales data to uncover insights into customer behavior, restaurant performance, and city-wise trends. The results are presented through an interactive Power BI dashboard designed for business decision-making.
-
----
-
-📥 Dashboard Access
-
-Due to GitHub file size limitations, the Power BI dashboard file (.pbix) is hosted externally.
-
-👉 Download Dashboard (.pbix):
-https://drive.google.com/file/d/1EWUhjM-ooFQW2ojn3brvrYX83BGX-O6Y/view?usp=drivesdk
-
-📄 A static version of the dashboard is also available in this repository:
-[zomato dashboard](https://github.com/Kunalray0707/Zomato-Sales-Performance/blob/main/Zomato%20Dashboard.pdf)
-
-«⚠️ Note: For full interactivity, download and open the ".pbix" file using Power BI Desktop.»
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png" alt="Zomato Logo" width="200"/>
+</p>
 
 ---
 
-📊 Dashboard Overview
+## 📌 Project Overview  
+This project delivers an end-to-end analysis of Zomato sales data, transforming raw datasets into meaningful business insights.  
+It focuses on **customer behavior, city-level performance, and product trends**, visualized through an interactive **Power BI dashboard**.
 
-The dashboard consists of three key pages:
+---
 
-🔹 1. Overview
+## 🎯 Business Objective  
+- Understand **revenue drivers**  
+- Identify **high-performing cities & categories**  
+- Analyze **user engagement patterns**  
+- Enable **data-driven decision making**  
 
-- Key metrics: Total Orders, Revenue, Users
-- Overall sales trends
-- Category-wise insights
+---
 
-🔹 2. User Performance
+## 📥 Dashboard Access  
 
-- User engagement and activity analysis
-- Order frequency and spending patterns
-- Identification of top users
+👉 **Download Interactive Dashboard (.pbix):**  
+https://drive.google.com/file/d/1EWUhjM-ooFQW2ojn3brvrYX83BGX-O6Y/view?usp=drivesdk  
 
-🔹 3. City Performance
+📄 **Static Preview:**  
+[Zomato Dashboard.pdf](https://github.com/Kunalray0707/Zomato-Sales-Performance/blob/main/Zomato%20Dashboard.pdf)  
 
-- City-wise revenue distribution
-- Top-performing cities
-- Regional comparisons
+⚠️ *For full interactivity, open in Power BI Desktop.*
 
+---
+
+## 📊 Dashboard Highlights  
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" width="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" width="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2921/2921822.png" width="80"/>
+</p>
+
+### 🔹 Overview  
+- 💰 Revenue: **~987M**  
+- 📦 Quantity: **~2M**  
+- 🧾 Orders: **806**  
+- ⭐ Ratings: **148K**  
+
+✔ Year-wise sales trend (2017–2020)  
+✔ Category analysis (Veg / Non-Veg / Others)  
+✔ Top-N city filtering  
+
+---
+
+### 🔹 User Analytics  
+- 👥 Active Users: **78K**  
+
+✔ Age distribution insights  
+✔ Gender-based segmentation  
+✔ Gained vs Lost users  
+✔ Engagement trends  
+
+---
+
+### 🔹 City Insights  
+✔ Revenue distribution by city  
+✔ Top performers: Tirupati, Bangalore, Pune  
+✔ Ratings & user activity comparison  
+✔ Order contribution by region  
+
+---
+
+## 🧠 Data Analysis Workflow  
+
+```mermaid
+flowchart LR
+A[Raw Data CSV/Excel] --> B[SQL Cleaning & Transformation]
+B --> C[Data Modeling]
+C --> D[Power BI Dashboard]
+D --> E[Insights & Decision Making]
+---
+
+🧪 Advanced Features
+📊 Top-N Filtering (Top 5 / 10 / 50)
+📈 Multi-year trend analysis
+🔍 Interactive slicers
+📉 User retention analysis
+🧩 Relational data modeling
 ---
 
 📁 Project Structure
-
 Zomato-Sales-Performance/
 │
 ├── dataset/
-│   ├── food.csv
-│   ├── food.xlsx
-│   ├── orders.csv
-│   ├── orders.xlsx
+│   ├── food.csv / .xlsx
+│   ├── orders.csv / .xlsx
 │   ├── order_type.xlsx
 │   ├── restaurant.xlsx
-│   ├── users.csv
-│   ├── users.xlsx
+│   ├── users.csv / .xlsx
 │
 ├── images/
-│   ├── (dashboard screenshots in .png format)
+│   ├── dashboard screenshots
 │
 ├── zomato dashboard.pdf
 ├── zomato.sql
 └── README.md
-
 ---
 
-🧾 Dataset Description
-
-The project uses multiple datasets:
-
-- Food Data – Contains food items and categories
-- Orders Data – Includes order transactions and details
-- Order Type Data – Defines types of orders
-- Restaurant Data – Restaurant information and attributes
-- Users Data – Customer-related data
-
+🧾 Dataset Details
+Dataset	Description
+Food	Food items & categories
+Orders	Order transactions
+Order Type	Type of orders
+Restaurant	Restaurant details
+Users	Customer demographics
 ---
 
-🛠️ Tools & Technologies
-
-- Power BI – Dashboard creation and visualization
-- SQL – Data extraction and transformation
-- Excel / CSV – Data storage and preprocessing
-
+🛠️ Tech Stack
+<p align="center"> <img src="https://img.icons8.com/color/96/power-bi.png"/> <img src="https://img.icons8.com/ios-filled/100/database.png"/> <img src="https://img.icons8.com/color/96/ms-excel.png"/> <img src="https://img.icons8.com/color/96/python.png"/> </p>
+📊 Power BI
+🗄️ SQL
+📑 Excel / CSV
+🐍 Python (optional)
 ---
 
-🎯 Key Insights
-
-- Identified top cities contributing to maximum revenue
-- Analyzed customer ordering patterns and engagement
-- Discovered high-performing food categories and order types
-
+📌 Key Insights
+📍 Top cities contribute majority of revenue
+🍗 Non-Veg category dominates sales
+👥 Strong engagement from specific age groups
+📈 Peak growth observed (2018–2019)
+⭐ High ratings indicate active users
 ---
 
-🚀 How to Use
-
-1. Clone the repository:
-   
-   git clone https://github.com/Kunalray0707/Zomato-Sales-Performance.git
-
-2. Download the Power BI file from the link above
-
-3. Open in Power BI Desktop to explore the dashboard
-
-4. Use datasets in the "dataset/" folder for further analysis
-
+⚡ How to Run
+git clone https://github.com/Kunalray0707/Zomato-Sales-Performance.git
+Download .pbix file
+Open in Power BI Desktop
+Explore dashboard filters
 ---
 
-📌 Future Enhancements
-- Integration with real-time data sources
-- Deployment on Power BI Service
-- Advanced analytics and forecasting
-
+🧩 Use Cases
+📊 Business performance tracking
+🏙️ Expansion strategy
+👥 Customer segmentation
+📈 Sales optimization
+🍴 Category analysis
 ---
 
-🤝 Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
+🚀 Future Scope
+🔄 Real-time data integration
+🤖 Machine learning predictions
+☁️ Power BI Service deployment
+📱 Mobile-friendly dashboard
+---
 
+🤝 Contribution
+
+Pull requests are welcome. For major changes, open an issue first.
 ---
 
 ⭐ Support
-If you found this project useful, consider giving it a star ⭐
+
+If you like this project, give it a star ⭐
+
+<p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="80"/> </p> ```
