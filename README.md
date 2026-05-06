@@ -74,4 +74,12 @@ B --> C[Data Modeling]
 C --> D[Power BI Dashboard]
 D --> E[Insights & Decision Making]
 
+## 🧪 Advanced Features  
+
+- 📊 Top-N Filtering (Top 5 / 10 / 50)  
+- 📈 Multi-year trend analysis  
+- 🔍 Interactive slicers  
+- 📉 User retention analysis  
+- 🧩 Relational data modeling  
+
 
