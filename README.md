@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/github/forks/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge"/>
   <img src="https://img.shields.io/github/repo-size/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
-</p>---
+</p>
+---
 
 📌 Project Overview
 
@@ -176,7 +177,8 @@ Pull requests welcome. Open an issue first for major changes.
 
 ⭐ Support
 
-If you found this useful, give it a star <p align="center"> 
+If you found this useful, give it a star ⭐
+
+<p align="center"> 
   <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="80"/> 
 </p>
-
