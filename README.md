@@ -78,15 +78,12 @@ A[Raw Data CSV/Excel] --> B[SQL Cleaning & Transformation]
 B --> C[Data Modeling]
 C --> D[Power BI Dashboard]
 D --> E[Insights & Decision Making]
-
 🧪 Advanced Features
 📊 Top-N Filtering (Top 5 / 10 / 50)
 📈 Multi-year trend analysis
 🔍 Interactive slicers
 📉 User retention analysis
 🧩 Relational data modeling
----
-
 📁 Project Structure
 Zomato-Sales-Performance/
 │
@@ -103,8 +100,6 @@ Zomato-Sales-Performance/
 ├── zomato dashboard.pdf
 ├── zomato.sql
 └── README.md
----
-
 🧾 Dataset Details
 Dataset	Description
 Food	Food items & categories
@@ -112,50 +107,38 @@ Orders	Order transactions
 Order Type	Type of orders
 Restaurant	Restaurant details
 Users	Customer demographics
----
-
 🛠️ Tech Stack
 <p align="center"> <img src="https://img.icons8.com/color/96/power-bi.png"/> <img src="https://img.icons8.com/ios-filled/100/database.png"/> <img src="https://img.icons8.com/color/96/ms-excel.png"/> <img src="https://img.icons8.com/color/96/python.png"/> </p>
 📊 Power BI
 🗄️ SQL
 📑 Excel / CSV
 🐍 Python (optional)
----
-
 📌 Key Insights
 📍 Top cities contribute majority of revenue
 🍗 Non-Veg category dominates sales
 👥 Strong engagement from specific age groups
 📈 Peak growth observed (2018–2019)
 ⭐ High ratings indicate active users
----
-
 ⚡ How to Run
 git clone https://github.com/Kunalray0707/Zomato-Sales-Performance.git
 Download .pbix file
 Open in Power BI Desktop
 Explore dashboard filters
----
-
 🧩 Use Cases
 📊 Business performance tracking
 🏙️ Expansion strategy
 👥 Customer segmentation
 📈 Sales optimization
 🍴 Category analysis
----
-
 🚀 Future Scope
 🔄 Real-time data integration
 🤖 Machine learning predictions
 ☁️ Power BI Service deployment
 📱 Mobile-friendly dashboard
----
 
 🤝 Contribution
 
 Pull requests are welcome. For major changes, open an issue first.
----
 
 ⭐ Support
 
