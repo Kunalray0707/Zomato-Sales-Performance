@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&logo=github&color=yellow&cacheSeconds=30"/>
+<img src="https://img.shields.io/github/stars/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&logo=github&label=Stars&color=yellow&cacheSeconds=30"/>
   <img src="https://img.shields.io/github/forks/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&logo=github&color=orange&cacheSeconds=30"/>
   <img src="https://img.shields.io/github/repo-size/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
@@ -207,11 +207,10 @@ Pull requests welcome. Open an issue first for major changes.
 
 ## ⭐ Support This Project
 
-If you found this project helpful, consider giving it a ⭐!
+If you found this project helpful, consider giving it a 
 
 <p align="center">
-  <a href="https://github.com/Kunalray0707/Zomato-Sales-Performance">
-    <img src="https://img.shields.io/github/stars/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&logo=github&color=yellow"/>
+  <p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="80"/> </p>
   </a>
 </p>
 
