@@ -1,13 +1,20 @@
-🍽️ Zomato Sales Performance Analysis
+<h1 align="center">🍽️ Zomato Sales Performance Analysis</h1>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png" width="200"/>
-</p><p align="center">
-  <img src="https://img.shields.io/github/stars/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/repo-size/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/github/forks/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&color=orange"/>
+  <img src="https://img.shields.io/github/repo-size/Kunalray0707/Zomato-Sales-Performance?style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/badge/Tool-PowerBI-yellow?style=for-the-badge&logo=powerbi"/>
-</p>---
+  🕒 Last Updated: <!--LAST_UPDATED-->
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kunalray0707&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
 📌 Project Overview
 
