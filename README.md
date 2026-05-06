@@ -64,6 +64,14 @@ https://drive.google.com/file/d/1EWUhjM-ooFQW2ojn3brvrYX83BGX-O6Y/view?usp=drive
 
 ---
 
+
 ## 🧠 Data Analysis Workflow  
+
+```mermaid
+flowchart LR
+A[Raw Data CSV/Excel] --> B[SQL Cleaning & Transformation]
+B --> C[Data Modeling]
+C --> D[Power BI Dashboard]
+D --> E[Insights & Decision Making]
 
 
