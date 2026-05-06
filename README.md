@@ -14,7 +14,7 @@ Due to GitHub file size limitations, the Power BI dashboard file (.pbix) is host
 https://drive.google.com/file/d/1EWUhjM-ooFQW2ojn3brvrYX83BGX-O6Y/view?usp=drivesdk
 
 📄 A static version of the dashboard is also available in this repository:
-"zomato dashboard.pdf"
+[zomato dashboard](https://github.com/Kunalray0707/Zomato-Sales-Performance/blob/main/Zomato%20Dashboard.pdf)
 
 «⚠️ Note: For full interactivity, download and open the ".pbix" file using Power BI Desktop.»
 
