@@ -36,7 +36,7 @@ It focuses on:
 https://drive.google.com/file/d/1EWUhjM-ooFQW2ojn3brvrYX83BGX-O6Y/view?usp=drivesdk
 
 📄 Static Preview:
-[Zomato Dashboard.pdf]https://github.com/Kunalray0707/Zomato-Sales-Performance/blob/main/Zomato%20Dashboard.pdf
+[Zomato Dashboard.pdf](https://github.com/Kunalray0707/Zomato-Sales-Performance/blob/main/Zomato%20Dashboard.pdf)
 
 ⚠️ PBIX files cannot be previewed in browser. Download and open using Power BI Desktop.
 
