@@ -90,11 +90,14 @@ https://drive.google.com/file/d/1EWUhjM-ooFQW2ojn3brvrYX83BGX-O6Y/view?usp=drive
 ---
 
 ## 🧠 Data Analysis Workflow
+
+```mermaid
 flowchart LR
-A[Raw Data] --> B[SQL Cleaning]
-B --> C[Data Modeling]
-C --> D[Power BI Dashboard]
-D --> E[Insights]
+    A[Raw Data] --> B[SQL Cleaning]
+    B --> C[Data Modeling]
+    C --> D[Power BI Dashboard]
+    D --> E[Insights]
+```
 
 ---
 
