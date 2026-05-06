@@ -72,7 +72,7 @@ flowchart LR
 A[Raw Data CSV/Excel] --> B[SQL Cleaning & Transformation]
 B --> C[Data Modeling]
 C --> D[Power BI Dashboard]
-D --> E[Insights & Decision Making]
+D --> E[Insights & Decision Making]```
 
 ## 🧪 Advanced Features  
 
